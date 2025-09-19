@@ -1,4 +1,4 @@
-# 🎓 UN-Desvare - En progreso
+# 🎓 UN Desvare - En progreso
 
 **UN Desvare** es una aplicación hecha **por y para estudiantes** de la  
 **Universidad Nacional de Colombia - Sede Bogotá** 🏫.  
